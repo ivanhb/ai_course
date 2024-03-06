@@ -20,90 +20,90 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 	<td>30/01/24</td>
 	<td>11:00-13:00</td>
 	<td>Course intro + Introduction to Artificial Intelligence</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/01_intro.pdf); [PDF](slides/02_introduction_to_ai.pdf)</td>
   </tr>
   <tr>
 	<td>31/01/24</td>
 	<td>11:00-13:00</td>
 	<td>The History of Artificial Intelliigence</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/03_history_of_ai.pdf)</td>
   </tr>
   <tr>
 	<td>01/02/24</td>
 	<td>15:00-17:00</td>
 	<td>Intelligent Agents – Part 1</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/04_intelligent_agents.pdf)</td>
   </tr>
   <tr>
 	<td>07/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Intelligent Agents – Part 2</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/05_intelligent_agents.pdf)</td>
   </tr>
   <tr>
 	<td>08/02/24</td>
 	<td>15:00-17:00</td>
 	<td>Data Structures and Computational Thinking</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/06_data_structures.pdf)</td>
   </tr>
   <tr>
 	<td>13/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Knowledge representation and reasoning – Propositional logic</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/07_knowledge_representation.pdf)</td>
   </tr>
   <tr>
 	<td>14/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Knowledge representation and reasoning – Propositional logic</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/07_knowledge_representation.pdf)</td>
   </tr>
   <tr>
 	<td>15/02/24</td>
 	<td>15:00-17:00</td>
 	<td>Knowledge representation and reasoning – First order logic</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/08_knowledge_representation_FOL.pdf)</td>
   </tr>
   <tr>
 	<td>20/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Knowledge representation and reasoning – Ontologies</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/09_knowledge_representation_desc_logics.pdf)</td>
   </tr>
   <tr>
 	<td>21/02/24</td>
 	<td>11:00-13:00</td>
 	<td>An Introduction to Machine Learning</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/10_machine_learning.pdf)</td>
   </tr>
   <tr>
 	<td>22/02/24</td>
 	<td>15:00-17:00</td>
 	<td>An Introduction to Machine Learning</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/10_machine_learning.pdf)</td>
   </tr>
   <tr>
 	<td>27/02/24</td>
 	<td>11:00-13:00</td>
 	<td>An Introduction to Machine Learning</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/10_machine_learning.pdf)</td>
   </tr>
   <tr>
 	<td>28/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Introduction to Artificial Neural Networks</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/11_neural_networks.pdf)</td>
   </tr>
   <tr>
 	<td>29/02/24</td>
 	<td>15:00-17:00</td>
 	<td>An introduction to NLP</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/12_nlp.pdf)</td>
   </tr>
   <tr>
 	<td>05/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Final Remarks</td>
-	<td></td>
+	<td>SLIDES: [PDF](slides/13_conclusions.pdf)</td>
   </tr>
 </table>

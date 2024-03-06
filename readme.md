@@ -104,6 +104,6 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 	<td>05/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Final Remarks</td>
-	<td>Slides: <a href="slides/13_conclusions.pdf">PDF</a></td>
+	<td>Slides: <a href="slides/13_conclusions.pdf">PDF</a> <br>Scripts: <a href="scripts/nlp.py">PYTHON</a></td>
   </tr>
 </table>

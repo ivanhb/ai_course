@@ -1,4 +1,4 @@
-#### git repository: [https://github.com/ivanhb/ai_course](https://github.com/ivanhb/ai_course)
+#### [https://github.com/ivanhb/ai_course](https://github.com/ivanhb/ai_course)
 # 90147 - INTELLIGENZA ARTIFICIALE (1)
 ## Anno Accademico 2023/2024  
 

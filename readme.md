@@ -20,7 +20,7 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 	<td>30/01/24</td>
 	<td>11:00-13:00</td>
 	<td>Course intro + Introduction to Artificial Intelligence</td>
-	<td>Slides: <a href="https://ivanhb.it/ai_course/slides/01_intro.pdf)">PDF</a>; <a href="https://ivanhb.it/ai_course/slides/02_introduction_to_ai.pdf">PDF</a></td>
+	<td>Slides: <a href="https://ivanhb.it/ai_course/slides/01_intro.pdf">PDF</a>; <a href="https://ivanhb.it/ai_course/slides/02_introduction_to_ai.pdf">PDF</a></td>
   </tr>
   <tr>
 	<td>31/01/24</td>
@@ -104,6 +104,6 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 	<td>05/02/24</td>
 	<td>11:00-13:00</td>
 	<td>Final Remarks</td>
-	<td>Slides: <a href="https://ivanhb.it/ai_course/slides/13_conclusions.pdf">PDF</a> <br>Scripts: <a href="scripts/nlp.py">PYTHON</a></td>
+	<td>Slides: <a href="https://ivanhb.it/ai_course/slides/13_conclusions.pdf">PDF</a> <br>Scripts: <a href="https://ivanhb.it/ai_course/scripts/nlp.py">PYTHON</a></td>
   </tr>
 </table>

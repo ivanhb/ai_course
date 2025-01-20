@@ -6,7 +6,6 @@
 **Crediti formativi:** 6  
 **SSD:** INF/01  
 **Lingua di insegnamento:** Italiano  
-**Modalità didattica:** Convenzionale - Lezioni in presenza  
 **Campus:** Bologna  
 **Corso:** Laurea in Lettere (cod. 8850)  
 

@@ -24,7 +24,7 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <td>11/02/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
 <td>Course intro + Introduction to Artificial Intelligence</td>
-<td>Slides: <a>TBA</a></td>
+<td>Slides: <a href="slides/01_intro.pdf">PDF</a>; <a href="slides/02_introduction_to_ai.pdf">PDF</a></td>
 </tr>
 
 <tr>

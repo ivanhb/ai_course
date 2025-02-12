@@ -31,7 +31,7 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <td>12/02/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
 <td>The History of Artificial Intelligence</td>
-<td>Slides: <a>TBA</a></td>
+<td>Slides: <a href="slides/03_history_of_ai.pdf">PDF</a></td>
 </tr>
 
 <tr>

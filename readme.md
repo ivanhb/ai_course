@@ -44,8 +44,8 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <tr>
 <td>18/02/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>Intelligent Agents Part II</td>
+<td>Slides: <a href="slides/05_intelligent_agents.pdf">PDF</a></td>
 </tr>
 
 <tr>

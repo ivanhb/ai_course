@@ -51,8 +51,8 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <tr>
 <td>19/02/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>Data Structures and Computational Thinking</td>
+<td>Slides: <a href="slides/06_data_structures.pdf">PDF</a></td>
 </tr>
 
 <tr>

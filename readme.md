@@ -58,8 +58,8 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <tr>
 <td>20/02/25</td>
 <td>15:00-17:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>Knowledge representation and reasoning – Propositional logic</td>
+<td>Slides: <a href="slides/07_knowledge_representation.pdf">PDF</a></td>
 </tr>
 
 <tr>

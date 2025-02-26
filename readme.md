@@ -65,15 +65,15 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <tr>
 <td>25/02/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>Knowledge representation and reasoning – Propositional logic</td>
+<td>Slides: <a href="slides/07_knowledge_representation.pdf">PDF</a></td>
 </tr>
 
 <tr>
 <td>26/02/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>First-Order Logic</td>
+<td>Slides: <a href="slides/08_knowledge_representation_FOL.pdf">PDF</a></td>
 </tr>
 
 <tr>

@@ -59,14 +59,13 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <td>20/02/25</td>
 <td>15:00-17:00<br>(AULA A, Via Zamboni 32)</td>
 <td>Knowledge representation and reasoning – Propositional logic</td>
-<td>Slides: <a href="slides/07_knowledge_representation.pdf">PDF</a></td>
+<td rowspan="2">Slides: <a href="slides/07_knowledge_representation.pdf">PDF</a></td>
 </tr>
 
 <tr>
 <td>25/02/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
 <td>Knowledge representation and reasoning – Propositional logic</td>
-<td>Slides: <a href="slides/07_knowledge_representation.pdf">PDF</a></td>
 </tr>
 
 <tr>
@@ -79,8 +78,8 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <tr>
 <td>27/02/25</td>
 <td>15:00-17:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>First-Order Logic + Ontologies</td>
+<td>Slides: <a href="slides/09_knowledge_representation_desc_logics.pdf">PDF</a></td>
 </tr>
 
 <tr>

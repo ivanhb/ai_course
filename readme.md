@@ -79,14 +79,13 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <td>27/02/25</td>
 <td>15:00-17:00<br>(AULA A, Via Zamboni 32)</td>
 <td>First-Order Logic + Ontologies</td>
-<td>Slides: <a href="slides/09_knowledge_representation_desc_logics.pdf">PDF</a></td>
+<td rowspan="2">Slides: <a href="slides/09_knowledge_representation_desc_logics.pdf">PDF</a></td>
 </tr>
 
 <tr>
 <td>04/03/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>Ontologies + Description logics</td>
 </tr>
 
 <tr>

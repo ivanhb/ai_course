@@ -120,7 +120,7 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <td>13/03/25</td>
 <td>15:00-17:00<br>(AULA A, Via Zamboni 32)</td>
 <td>Machine Learning</td>
-<td>Slides: <a>TBA</a></td>
+<td>Slides: <a href="slides/10_machine_learning.pdf">PDF</a></td>
 </tr>
 
 <tr>

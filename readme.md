@@ -120,21 +120,20 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <td>13/03/25</td>
 <td>15:00-17:00<br>(AULA A, Via Zamboni 32)</td>
 <td>Machine Learning</td>
-<td>Slides: <a href="slides/10_machine_learning.pdf">PDF</a></td>
+<td rowspan="2">Slides: <a href="slides/10_machine_learning.pdf">PDF</a></td>
 </tr>
 
 <tr>
 <td>18/03/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>Machine Learning</td>
 </tr>
 
 <tr>
 <td>19/03/25</td>
 <td>11:00-13:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>Machine Learning + Artificial Neural Networks</td>
+<td>Slides: <a href="slides/11_neural_networks.pdf">PDF</a></td>
 </tr>
 
 <tr>

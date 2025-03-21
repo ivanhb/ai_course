@@ -139,8 +139,8 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 <tr>
 <td>20/03/25</td>
 <td>15:00-17:00<br>(AULA A, Via Zamboni 32)</td>
-<td>TBA</td>
-<td>Slides: <a>TBA</a></td>
+<td>NLP (brief introduction) + Final Remarks</td>
+<td>Slides: <a href="slides/12_nlp.pdf">PDF</a>; <a href="slides/13_conclusions.pdf">PDF</a></td>
 </tr>
 
 
